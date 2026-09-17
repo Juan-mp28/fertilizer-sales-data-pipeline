@@ -13,7 +13,6 @@ Una empresa de fertilizantes produce bajo demanda, pero esa demanda depende del 
 
 Este pipeline modela ese flujo (venta → producción → sobre-stock) y responde tres preguntas de negocio:
 
-
 1. ¿Qué tan ligada está la demanda a la lluvia?
 2. ¿Cuánto cuesta el sobre-stock y cómo evoluciona?
 3. ¿Qué productos concentran el riesgo real por ser perecederos?
