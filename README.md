@@ -6,11 +6,13 @@ Pipeline de datos de punta a punta (Bronze → Silver → Gold) construido en **
 
 ---
 
+
 ## Contexto de negocio
 
 Una empresa de fertilizantes produce bajo demanda, pero esa demanda depende del **clima**: cuando se espera buena temporada de lluvias, los cultivos piden más fertilizante. El problema es que los pronósticos de lluvia son poco fiables, y cuando la empresa fabrica de más, queda con **sobre-stock de producto** — algo especialmente costoso porque muchos fertilizantes son **perecederos** (vida útil limitada) y almacenar materia prima tiene un costo fijo diario.
 
 Este pipeline modela ese flujo (venta → producción → sobre-stock) y responde tres preguntas de negocio:
+
 
 1. ¿Qué tan ligada está la demanda a la lluvia?
 2. ¿Cuánto cuesta el sobre-stock y cómo evoluciona?
