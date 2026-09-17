@@ -5,8 +5,6 @@ Pipeline de datos de punta a punta (Bronze → Silver → Gold) construido en **
 >**Datos 100% sintéticos.** Generados por mí y modelados sobre mi experiencia en la industria de fertilizantes. No contienen información real de ninguna empresa.
 
 ---
-
-
 ## Contexto de negocio
 
 Una empresa de fertilizantes produce bajo demanda, pero esa demanda depende del **clima**: cuando se espera buena temporada de lluvias, los cultivos piden más fertilizante. El problema es que los pronósticos de lluvia son poco fiables, y cuando la empresa fabrica de más, queda con **sobre-stock de producto** — algo especialmente costoso porque muchos fertilizantes son **perecederos** (vida útil limitada) y almacenar materia prima tiene un costo fijo diario.
